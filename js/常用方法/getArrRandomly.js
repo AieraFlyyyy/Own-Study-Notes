@@ -17,4 +17,5 @@ const test = () => {
   const randomListA = getArrRandomly(arr);      //[2,3,1,6,5,4,7]
   const randomListB = getArrRandomly(arr);      //[4,2,3,5,1,7,6]
 
+
 }
